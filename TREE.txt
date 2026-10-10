@@ -1,0 +1,15 @@
+WebActiveBox/
+├── README.md
+├── LICENSE
+├── TREE.txt
+├── CASE_STUDY.md
+├── RESPONSIVE_QA.md
+├── index.html
+├── theme-init.js
+├── script.js
+├── enhancements.js
+├── presentation.js
+├── scripts/capture_feature_shots.py
+├── docs/screenshots/   (20 labelled JPGs)
+├── assets/             (css, fonts, images, design)
+└── tests/responsive_check.py
