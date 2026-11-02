@@ -298,5 +298,5 @@ Independent front-end study of an existing template — **not** a commercial pro
 ## Author
 
 **Mohammad Rohaan** · https://github.com/rohaan2802  
-Live site: https://rohaan2802.github.io/WebActiveBox/  
-Repository: https://github.com/rohaan2802/WebActiveBox
+Live site: https://rohaan2802.github.io/Web_Active_Box/  
+Repository: https://github.com/rohaan2802/Web_Active_Box
