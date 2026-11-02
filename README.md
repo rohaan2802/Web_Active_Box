@@ -1,6 +1,6 @@
 # ActiveBox · Responsive front-end study
 
-[![Live](https://img.shields.io/badge/live-GitHub%20Pages-0B5FFF)](https://rohaan2802.github.io/WebActiveBox/)
+[![Live](https://img.shields.io/badge/live-GitHub%20Pages-0B5FFF)](https://rohaan2802.github.io/Web_Active_Box/)
 [![Stack](https://img.shields.io/badge/stack-HTML%20%7C%20CSS%20%7C%20JS-111827)](#source-map)
 [![Screenshots](https://img.shields.io/badge/screenshots-20%20labelled-1B7A4B)](#feature-screenshots-20)
 
