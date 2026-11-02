@@ -12,19 +12,19 @@ A recreation of the original **ActiveBox** template by **Mohammad Rohaan**, refi
 
 ## Live demo
 
-https://rohaan2802.github.io/WebActiveBox/
+https://rohaan2802.github.io/Web_Active_Box/
 
 Repository:
 
-https://github.com/rohaan2802/WebActiveBox
+https://github.com/rohaan2802/Web_Active_Box
 
 Design decisions:
 
-https://github.com/rohaan2802/WebActiveBox/blob/master/CASE_STUDY.md
+https://github.com/rohaan2802/Web_Active_Box/blob/master/CASE_STUDY.md
 
 Verification notes:
 
-https://github.com/rohaan2802/WebActiveBox/blob/master/RESPONSIVE_QA.md
+https://github.com/rohaan2802/Web_Active_Box/blob/master/RESPONSIVE_QA.md
 
 ---
 
